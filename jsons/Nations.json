@@ -1,6 +1,6 @@
 [	
 	{
-		"name": "Samine",
+		"name": "Samine Industries",
 		"adjective": ["Samish"],
 		"cityStateType": "Small Arms Manufacturers",
 
@@ -12,7 +12,7 @@
 		"cities": ["Samine"]
 	},
 	{
-		"name": "Arvine Industries",
+		"name": "Arvine Construction",
 		"adjective": ["Arvish"],
 		"cityStateType": "Construction Center",
 
