@@ -103,18 +103,18 @@
           "[+1 Science] from [Academy] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
           "[+1 Science] from [Academy] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+2 Science] from [Academy] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+3 Science] from [Academy] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+2 Science] from [Academy] tiles [in all cities] <starting from the [Atomic era]>",
         ]
         "allyBonusUniques": [
           "[+2 Science] from [Academy] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+3 Science] from [Academy] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Science] from [Academy] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+4 Science] from [Academy] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+6 Science] from [Academy] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+4 Science] from [Academy] tiles [in all cities] <starting from the [Atomic era]>",
 
           "[+1 Science] from [Science] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
           "[+1 Science] from [Science] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+2 Science] from [Science] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+3 Science] from [Science] buildings [in all cities] <starting from the [Atomic era]>",
+          "[+2 Science] from [Science] buildings [in all cities] <starting from the [Atomic era]>",
         ],
         "color": [51, 153, 121]
     }
@@ -124,18 +124,18 @@
           "[+1 Culture] from [Landmark] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
           "[+1 Culture] from [Landmark] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+2 Culture] from [Landmark] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+3 Culture] from [Landmark] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+2 Culture] from [Landmark] tiles [in all cities] <starting from the [Atomic era]>",
         ]
         "allyBonusUniques": [
           "[+2 Culture] from [Landmark] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+3 Culture] from [Landmark] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Culture] from [Landmark] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+4 Culture] from [Landmark] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+6 Culture] from [Landmark] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+4 Culture] from [Landmark] tiles [in all cities] <starting from the [Atomic era]>",
 
           "[+1 Culture] from [Culture] buildings [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
           "[+1 Culture] from [Culture] buildings [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
           "[+2 Culture] from [Culture] buildings [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+3 Culture] from [Culture] buildings [in all cities] <starting from the [Atomic era]>",
+          "[+2 Culture] from [Culture] buildings [in all cities] <starting from the [Atomic era]>",
         ],
         "color": [51, 153, 121]
     }
