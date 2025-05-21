@@ -1,13 +1,26 @@
-[	{
-		"name": "Small Arms Manufacturers",
-		"adjective": ["Factory"],
-		"cityStateType": "Small Arms Manufacturer",
+[	
+	{
+		"name": "Samine",
+		"adjective": ["Samish"],
+		"cityStateType": "Small Arms Manufacturers",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "I guess you weren't here for the showing after all...",
+		"defeated": "I guess you weren't here for the weapons after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [114,0,255],
 		"cities": ["Samine"]
+	},
+	{
+		"name": "Arvine Industries",
+		"adjective": ["Samish"],
+		"cityStateType": "Construction Office",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the buildings after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [114,0,255],
+		"cities": ["Arvine"]
 	},
 ]
