@@ -64,13 +64,13 @@
         "allyBonusUniques": [
           "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
           "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+2 Food] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+2 Food] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+1 Food] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
 
           "[+1 Gold] from [Farm] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
           "[+1 Gold] from [Farm] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+2 Gold] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+2 Gold] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+1 Gold] from [Farm] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+1 Gold] from [Farm] tiles [in all cities] <starting from the [Atomic era]>",
         ],
         "color": [38, 115, 51]
     }
@@ -85,14 +85,14 @@
         ]
         "allyBonusUniques": [
           "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+2 Production] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+4 Production] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+4 Production] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+1 Production] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Production] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+3 Production] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
 
           "[+1 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Classical era]> <before the [Medieval era]>",
-          "[+2 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
-          "[+3 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
-          "[+4 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
+          "[+1 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+          "[+2 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Industrial era]> <before the [Atomic era]>",
+          "[+3 Gold] from [Strategic resource] tiles [in all cities] <starting from the [Atomic era]>",
         ],
         "color": [115, 106, 38]
     }
