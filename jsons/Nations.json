@@ -13,8 +13,8 @@
 	},
 	{
 		"name": "Arvine Industries",
-		"adjective": ["Samish"],
-		"cityStateType": "Construction Office",
+		"adjective": ["Arvish"],
+		"cityStateType": "Construction Center",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -22,5 +22,29 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [114,0,255],
 		"cities": ["Arvine"]
+	},
+	{
+		"name": "Pontech Farms",
+		"adjective": ["Pontish"],
+		"cityStateType": "Agricultural Suppliers",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the buildings after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [114,0,255],
+		"cities": ["Pontech"]
+	},
+	{
+		"name": "Winslow Park",
+		"adjective": ["Labratory"],
+		"cityStateType": "Advanced Researchers",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the buildings after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [114,0,255],
+		"cities": ["Pontech"]
 	},
 ]
